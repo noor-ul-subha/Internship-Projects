@@ -29,6 +29,11 @@ An e-commerce website featuring product listings, shopping categories, and a cle
 ## 4. Canva UI Design
 
 A collaborative e-commerce UI design created using Canva, focusing on page layouts, product presentation, and visual consistency.
+My Task:
+- Style guide
+- Login page
+- Profile page
+- Wishlist Page
 
 - [View Design](https://canva.link/t0yzu2yn3h8dvl9)
 
