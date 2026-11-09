@@ -26,7 +26,7 @@ An e-commerce website featuring product listings, shopping categories, and a cle
 
 - [View Project Code](https://github.com/noor-ul-subha/Shopping-Club)
 
-## 4. Canva UI Design
+## 4. Canva UI Design - Sage & Stitch
 
 A collaborative e-commerce UI design created using Canva, focusing on page layouts, product presentation, and visual consistency.
 My Task:
